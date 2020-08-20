@@ -1,0 +1,6 @@
+setup.py
+src/ghostinspector.py
+src/ghostinspector.egg-info/PKG-INFO
+src/ghostinspector.egg-info/SOURCES.txt
+src/ghostinspector.egg-info/dependency_links.txt
+src/ghostinspector.egg-info/top_level.txt
