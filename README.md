@@ -1,1 +1,1 @@
-![ex](eaxample.png)
+![ex](example.png)
